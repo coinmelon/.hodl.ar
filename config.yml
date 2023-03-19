@@ -5,11 +5,11 @@ version: 0.3.2 # NO TOCAR
 
 # Configuración Global
 html:
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | CoinMelon # Este es el Título que aparece en la pestaña de navegador
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: CoinMelon # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
